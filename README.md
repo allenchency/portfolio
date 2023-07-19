@@ -17,7 +17,6 @@ https://allenchency.github.io/MyPortfolio
 
 ### 👨‍💻 How to run
 
-> https://github.com/allenchency/portfolio.git
 > flutter run -d chrome --web-renderer html
 
 ### Screenshots
