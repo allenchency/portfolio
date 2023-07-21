@@ -2,7 +2,7 @@ abstract class AppStrings {
   static const String developerName = 'Allen Chen';
   static const String helloIM = 'Hello, I’m';
   static const String introMsg =
-      "An Entry-Level developer with 2 monthes of experience in coding. I have completed this portfolio website to improve my programming skill and aim to solve complex problem in the future.";
+      "An Entry-Level developer with 2 months of experience in coding. I have completed this portfolio website to improve my programming skill and aim to solve complex problem in the future.";
   static String aboutMeMsg =
       "I'm a Flutter developer with a good understanding of the Flutter framework, I have experience in UI design, API integration, clean code writing and knowledge of solid principles and clean architecture. I have completed many projects that prove my ability to provide creative and high-quality solutions and finish them in an almost complete way with a great user experience without any problems facing users";
   static const String numOfExperience = '2+';
