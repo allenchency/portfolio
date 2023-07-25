@@ -6,19 +6,19 @@ abstract class AppConstants {
   static const double appBarHeight = 80;
   static const List<CustomService> services = [
     CustomService(
-      service: 'MOBILE DEVELOPMENT',
+      service: 'CODE EDITOR',
       logo: AppAssets.androidLogo,
       description:
           'I am a Junior mobile developer. I have experience using Dart and Flutter Framework.',
     ),
     CustomService(
-      service: 'UI & UX DESIGNING',
+      service: 'DATA ANALYSIS',
       logo: AppAssets.uiDesignLogo,
       description:
           'I design beautiful web interfaces with Figma and Adobe XD. I design beautiful web interfaces with Figma and Adobe XD.',
     ),
     CustomService(
-      service: 'WEB SCRAPING',
+      service: 'WEB DEVELOPMENT',
       logo: AppAssets.scrappingLogo,
       description:
           'I can collect content and data from the internet then manipulate and analyze as needed.',
