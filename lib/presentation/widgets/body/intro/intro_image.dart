@@ -18,8 +18,8 @@ class IntroImage extends StatelessWidget {
 
     return Positioned(
       // alignment: Alignment.topRight,
-      top: 90,
-      right: 12,
+      top: 0,
+      right: 2,
       child: Image.asset(
         AppAssets.devImg,
         width: responsiveSize.getSize(),
